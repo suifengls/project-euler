@@ -1,8 +1,8 @@
 /**********************************************************************
 * Author        :   suifengls
 * E-mail        :   suifengls@gmail.com 
-* Last modified :	2013-06-23 21:49
-* Description   :   Probelm 44* Pentagon numbers 
+* Last modified :	2013-06-26 17:40
+* Description   :   Probelm 45 Triangular, pentagonal, and hexagonal 
 **********************************************************************/
 #include <iostream>
 #include <vector>
